@@ -1,5 +1,9 @@
 {
   "status": "active",
   "message": "⚠️ Temu has updated their code. Update coming in a few hours!",
-  "selectors": { "title": "h1[class*='goods-name']", "price": ".p-price" }
+  "selectors": {
+    "search_item": ".Ois68FAW",
+    "product_title": "h1",
+    "product_price": "._1vkz0rqG"
+  }
 }
