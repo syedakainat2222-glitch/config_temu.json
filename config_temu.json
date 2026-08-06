@@ -1,0 +1,5 @@
+{
+  "status": "active",
+  "message": "⚠️ Temu has updated their code. Update coming in a few hours!",
+  "selectors": { "title": "h1[class*='goods-name']", "price": ".p-price" }
+}
