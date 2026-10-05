@@ -5,6 +5,7 @@
     "search_card": ".Ois68FAW",
     "search_title": "._2D9RBAXL",
     "search_price": "._2myxWHLi",
+    "search_original_price": "[data-type='marketPrice'] .n22m2FMz, [data-type='marketPrice']",
     "search_link": "a[href*='.html']",
     "search_image": "img",
     "search_rating": "[role='img'][aria-label*='out of five stars']",
